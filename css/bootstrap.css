@@ -1690,7 +1690,7 @@ textarea.form-control {
   margin-top: 0.3rem;
   margin-left: -1.25rem; }
   .form-check-input:disabled ~ .form-check-label {
-    color: #6c757d; }
+    color: #fff; }
 
 .form-check-label {
   margin-bottom: 0; }
