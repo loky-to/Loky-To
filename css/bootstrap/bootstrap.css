@@ -1575,7 +1575,7 @@ pre {
     background-color: transparent;
     border: 0; }
   .form-control:focus {
-    color: #c8ff01;
+    color: #495057;
     background-color: #fff;
     border-color: #e4eac3;
     outline: 0;

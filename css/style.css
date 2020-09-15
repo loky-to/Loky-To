@@ -677,7 +677,6 @@ a:active {
 .form-control:active,
 .form-control:focus {
   background: #404040;
-  color: #fff;
 }
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -711,7 +710,7 @@ a:active {
   margin-bottom: 20px;
 }
 .site-contact-details li > span {
-  color: #446281;
+  color: #2c3e50;
   letter-spacing: 0.1em;
   font-size: 12px;
   font-weight: 500;
